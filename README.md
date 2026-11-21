@@ -70,8 +70,7 @@ The objective of this project was to demonstrate how Power BI, financial data mo
 
 ## DAX Implementation
 
-This project uses DAX calculated tables and measures
-to support financial analysis and interactive reporting.
+This project uses DAX calculated tables to support financial analysis and interactive reporting.
 
 - [DAX Calculated Tables](DAX_Tables.md)
 
