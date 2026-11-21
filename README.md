@@ -74,4 +74,4 @@ This project uses DAX calculated tables and measures
 to support financial analysis and interactive reporting.
 
 - [DAX Calculated Tables](DAX_Tables.md)
-- [DAX Measures](DAX_Measures.md)
+
