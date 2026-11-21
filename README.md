@@ -67,3 +67,11 @@ The project focuses on financial data modeling, advanced DAX calculations, stock
 ## Project Objective
 
 The objective of this project was to demonstrate how Power BI, financial data modeling, and advanced DAX can be used to transform historical stock market data into an interactive analytical solution, enabling users to explore stock performance, liquidity patterns, trading activity, and price movements.
+
+## DAX Implementation
+
+This project uses DAX calculated tables and measures
+to support financial analysis and interactive reporting.
+
+- [DAX Calculated Tables](DAX_Tables.md)
+- [DAX Measures](DAX_Measures.md)
